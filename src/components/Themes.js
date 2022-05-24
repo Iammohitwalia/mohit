@@ -1,6 +1,6 @@
 // Here we will create dark and light theme variables
 
-export const lightTheme = {
+export const DarkTheme  = {
 
     body:"#FCF6F4",
     text:"#000000",
@@ -9,7 +9,7 @@ export const lightTheme = {
     textRgba:"0,0,0",
 }
 
-export const DarkTheme = {
+export const lightTheme = {
 
     body:"#000000",
     text:"#FCF6F4",
