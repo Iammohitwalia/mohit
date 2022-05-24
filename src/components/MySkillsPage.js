@@ -114,8 +114,8 @@ I love to create funcitonality which speaks, Keep it clean, minimal and simple.
 <ul>
 <li>Nodejs</li>
     <li>PHP</li>
-    <li>Wordpress</li>
-<li>mysql</li>
+    <li>React</li>
+
 
 </ul>
 </Description>
